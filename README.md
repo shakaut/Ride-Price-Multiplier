@@ -44,8 +44,6 @@ This project builds a **machine learning model** to predict the **price multipli
 
 ## Project Structure  
 
-ride-price-multiplier
-
 - Ride_Pricing_Prediction.ipynb    # Data generate, model building and prediction
 - app.py                           # Streamlit app
 - rf_model.pkl                     # Trained model 
