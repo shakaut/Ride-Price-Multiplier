@@ -46,9 +46,9 @@ This project builds a **machine learning model** to predict the **price multipli
 
 ride-price-multiplier
 
-Ride_Pricing_Prediction.ipynb    # Data generate, model building and prediction
-app.py                           # Streamlit app
-rf_model.pkl                     # Trained model 
-preprocessor.pkl                 # Saved encoder/preprocessor
-requirements.txt                 # Dependencies
-README.md                        # Project documentation
+- Ride_Pricing_Prediction.ipynb    # Data generate, model building and prediction
+- app.py                           # Streamlit app
+- rf_model.pkl                     # Trained model 
+- preprocessor.pkl                 # Saved encoder/preprocessor
+- requirements.txt                 # Dependencies
+- README.md                        # Project documentation
