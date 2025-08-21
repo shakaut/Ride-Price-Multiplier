@@ -45,20 +45,10 @@ This project builds a **machine learning model** to predict the **price multipli
 ## Project Structure  
 
 ride-price-multiplier
-│
-├── src/                     # Source code
-│   ├── features.py          # Feature preprocessing (encoder, scaling, etc.)
-│   ├── model.py             # Custom Random Forest Regressor
-│   └── train.py             # Training pipeline
-│
-├── app.py                   # Streamlit app
-├── rf_model.pkl             # Trained model (large file, stored via Git LFS)
-├── preprocessor.pkl         # Saved encoder/preprocessor
-├── requirements.txt         # Dependencies
-└── README.md                # Project documentation
 
-## 👨‍💻 Author  
-
-**Shakhaut Hassain**  
-Machine Learning Engineer | Data Analyst  
-📍 Bangladesh  
+Ride_Pricing_Prediction.ipynb    # Data generate, model building and prediction
+app.py                           # Streamlit app
+rf_model.pkl                     # Trained model 
+preprocessor.pkl                 # Saved encoder/preprocessor
+requirements.txt                 # Dependencies
+README.md                        # Project documentation
