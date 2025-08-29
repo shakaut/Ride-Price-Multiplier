@@ -26,7 +26,7 @@ This project builds a **machine learning model** to predict the **price multipli
 
 - **Custom Random Forest Regressor** (MyRandomForestRegressor) built from scratch.  
 - Encodes categorical features using **preprocessing pipelines**.  
-- Trained on **10,000+ rows of synthetic ride-hailing dataset**.  
+- Trained on **10,000+ rows of synthetic ride dataset**.  
 - Model achieves good **RMSE performance**.  
 - **Streamlit app** for user-friendly predictions.  
 
