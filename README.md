@@ -2,7 +2,7 @@ Test the App Here: https://ride-price-multiplier.streamlit.app/
 
 # Ride Price Multiplier Prediction
 
-This project predicts the **price multiplier** for a ride-hailing platform based on demand–supply conditions such as active drivers, pending requests, distance, traffic, and weather. It uses a **custom Random Forest implementation** and provides an interactive **Streamlit web app** for predictions.  
+This project predicts the **price multiplier** for a ride-hailing platform based on demand–supply conditions such as active drivers, pending requests, distance, traffic, and weather. It uses a **custom Random Forest implementation** and provides an interactive **Streamlit web app** for predictions. Used synthetic ride dataset.
 
 ---
 
