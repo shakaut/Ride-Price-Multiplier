@@ -1,4 +1,4 @@
-Test the App Here: https://ride-price-multiplier.streamlit.app/
+Test the App Here: https://ride-price-multiplier.streamlit.app/    (The app may sleep due to inactivity. Click the Wake Up button to test it)
 
 # Ride Price Multiplier Prediction
 
