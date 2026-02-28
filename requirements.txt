@@ -1,7 +1,8 @@
 pandas
 numpy
 scikit-learn
-streamlit
+streamlit==1.37.0
 altair==4.2.2
 joblib
 python-3.12
+
